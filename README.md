@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">👋 Привет! Я Семён </h1>
 
-<!--
-**xerlovemate/xerlovemate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-Here are some ideas to get you started:
+## Обо мне
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/semyonsk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я начинающий Back-end разработчик, выполняю фриланс-заказы, вечно в поиске работы💀
+
+Люблю делать тг-ботов, парсеры, а иногда совмещать все вместе)
+
+## 🤖 Мой бот-портфолио
+[semyonsavelevbot](https://t.me/semyonsavelevbot) 
+
+<details align="left">
+  <summary><h2><b>📚 Стэк</b></h2></summary>
+  <p>
+    <h3>Langs</h3>
+    <img src="https://skillicons.dev/icons?i=py,html,css,postgres,sqlite&perline=7" />
+    <h3>Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,django,git,fastapi,flask,selenium&perline=7" />
+    <h3>Software</h3>
+    <img src="https://skillicons.dev/icons?i=pycharm,idea,vscode,photoshop,ae&perline=7" />
+    <br>
+  </p>
+</details>
