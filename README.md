@@ -7,9 +7,9 @@
 ## Обо мне
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/semyonsk)
 
-Я начинающий Back-end разработчик, выполняю фриланс-заказы, вечно в поиске работы💀
+Back-end разработчик, выполняю фриланс-заказы, в поиске работы
 
-Люблю делать тг-ботов, парсеры, а иногда совмещать все вместе)
+Люблю делать тг-ботов, парсеры, а иногда совмещать все вместе
 
 ## 🤖 Мой бот-портфолио
 [semyonsavelevbot](https://t.me/semyonsavelevbot) 
