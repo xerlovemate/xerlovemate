@@ -11,9 +11,6 @@ Back-end разработчик, выполняю фриланс-заказы, �
 
 Люблю делать тг-ботов, парсеры, а иногда совмещать все вместе
 
-## 🤖 Мой бот-портфолио
-[semyonsavelevbot](https://t.me/semyonsavelevbot) 
-
 <details align="left">
   <summary><h2><b>📚 Стэк</b></h2></summary>
   <p>
